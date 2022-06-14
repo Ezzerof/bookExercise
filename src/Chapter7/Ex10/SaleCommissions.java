@@ -1,4 +1,4 @@
-package Chapter7.Ex11;
+package Chapter7.Ex10;
 
 import java.util.ArrayList;
 import java.util.Scanner;
